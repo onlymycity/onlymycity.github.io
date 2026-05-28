@@ -1,0 +1,4 @@
+baseURL = "https://onlymycity.com"
+languageCode = "en-us"
+title = "Only My City"
+theme = "omc"
