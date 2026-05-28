@@ -916,3 +916,20 @@ section { padding: 100px 0; }
   text-align: center;
   margin-top: 16px;
 }
+
+/* ─── IDENTITY VISUAL CENTER ────────────────────────── */
+.identity-visual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.identity-visual .sign-outer {
+  width: 100%;
+  max-width: 480px;
+}
+
+.identity-visual .sign-inner {
+  width: 100%;
+  padding: 28px 32px;
+}
